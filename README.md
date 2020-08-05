@@ -1,7 +1,7 @@
 
 <div align="center">
 	<br>
-	<img src=https://thumbs.gfycat.com/DeepAffectionateBorer-size_restricted.gif width="200" height="200">
+	<img src=https://thumbs.gfycat.com/DeepAffectionateBorer-size_restricted.gif width="1000" height="300">
 	<br>
     	
 </div>`
