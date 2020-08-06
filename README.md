@@ -1,7 +1,7 @@
 
 <div align="center">
 	<br>
-	<img src=http://gph.is/2iBEqRV ="500" height="300">
+	<img src=http://gph.is/2iBEqRV width="500" height="300">
 	<br>
     	
 </div>`
