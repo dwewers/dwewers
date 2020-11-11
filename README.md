@@ -22,7 +22,7 @@ I'm a IT Student, Currently in my first year at Nelson Marlborough Institute of 
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 ### Some stats about Daniel
-<img alt="Daniel's github stats" src="https://github-readme-stats.vercel.app/api?username=dwewers-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+<img alt="Daniel's github stats" src="https://github-readme-stats.vercel.app/api?username=dwewers&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 ⭐️ From [Daniel-Ewers](https://github.com/dwewers)
 
