@@ -16,9 +16,8 @@ I'm a IT Student, Currently in my first year at Nelson Marlborough Institute of 
 - 🤔 I’m looking for help in learning about Web Dev and JavaScript 
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](link) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:email)](mailto:email)
-,[![Twitter Badge](https://img.shields.io/badge/-Raghav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=)]()
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/me)](https://www.linkedin.com/mwlite/me) 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielewers4@gmail.com)](mailto:danielewers4@gmail.com)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 ### Some stats about Daniel
