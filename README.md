@@ -8,7 +8,7 @@
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-I'm a IT Student, Currently in my first year at Nelson Marlborough Institute of Technology 🤓
+I'm a recent graduate of Nelson Marlborough Institute of Technology with a Bachelor of Information Technology majoring in Systems Development 🤓
 
 - 🔭 I’m currently working on Web design, database management, and network fundimentals 
 - 🌱 I’m currently learning about Data Structures, vanilla and p5 Javascript
