@@ -5,7 +5,7 @@
 
 <h1 align="center">Daniel Ewers</h1>
 <p align="center">
-  Systems Development graduate • Web & Database focus • Nelson, NZ
+  Junior Software Developer • Auckland, NZ
 </p>
 
 ---
